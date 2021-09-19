@@ -1,1 +1,2 @@
-# Build-A-Blog-Site-With-React-Redux-Firebase-And-MaterializeCSS-Part-4
+step1 : yarn install
+step2: yarn start
