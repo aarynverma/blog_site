@@ -19,7 +19,7 @@ class App extends Component {
       <BrowserRouter>
         <div className="App">
         <Navbar />
-        {/* we keep the routing routing together with the switch. */}
+        {/* we keep the routing routing together with the switch to render */}
         <Switch>
             <Route exact path='/'component={Dashboard} />
             {/* we are routing to the page when referring to the id. */}
